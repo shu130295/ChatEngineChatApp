@@ -1,6 +1,8 @@
 # The app is deployed in this link
 https://shub-chat-app-13.netlify.app/
 
+Creds: user1 user1 user2 user2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
